@@ -5,10 +5,9 @@ subtitle: Know the reasons that motivate me to write this blog
 gh-repo: racherb/racherb.github.io
 gh-badge:
   - star
-  - fork
   - follow
 tags:
-  - test
+  - first-post
 comments: true
 published: true
 ---
