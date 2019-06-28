@@ -14,7 +14,7 @@ description: Ideas have no value unless they are shared
 #url: "http://racherb.github.io"
 
 # baseurl should be an empty string
-baseurl: "/blog"
+# baseurl: ""
 
 # --- Navigation bar options --- #
 
