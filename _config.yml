@@ -21,7 +21,7 @@ description: Ideas have no value unless they are shared
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  #Resources:
+  Projects:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
   #Author's home: "http://author.com"
