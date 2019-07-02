@@ -3,27 +3,26 @@ layout: page
 title: About me
 subtitle: Who am I? I still, and sometimes, ask myself that question
 ---
-My name is Raciel Hernández, I'm a Chemical Engineer and I studied a master's degree in Chemical Process Analysis. I currently work for Axity as a Senior Consultant in IT Process Automation and in my spare time I co-create new products. Still wanting to change the world.
+My name is Raciel Hernández and I am passionate about what I do. I am currently working for Axity as a Senior Consultant in IT Process Automation. In my spare time I dedicate myself to data science and co-create new products.
+
+> "I still want to change the world"
 
 ## Brief history
 
-I am often asked how I got into programming and the IT world. While developing my experiments for the development of new sucrochemical products, for improved oil extraction, in the development of superplasticizing additives or developing modulating defoamers for the alcohol tolerance of yeasts, I discovered that computer simulation was a powerful option in the planning and statistical design of experiments. I then began to simulate production processes on a pilot scale and then on a semi-industrial scale. The power to make decisions based on such simulations led me to program my own algorithms. One thing led to another and the final conversion occurs when the Ministry of Higher Education funds me a project to extend the experience in the development of new products and services with a marketing approach. It was something like connecting the laboratory scientist in the real world. Today I am writing code in Haskell which is, in my view, the highest form of coding.
+After going through an exciting path as a Chemical Engineer, today I wake up between Lambdas, Functors and Monads, hoping to be able to concretize the professional project of my life.
 
-## My facets:
+## Main results (Under construction)
 
-### As a Chemical Engineer
+- Author of a Machine Learning System for the validation of video-tolling images applied to free-flow hiway traffic. Currently in production.
 
-- Professor of the Department of Materials Engineering, UMCC.
-- Scientific Ingestigator of the Centre for Anticorrosive and Surfactant Studies, UMCC.
+- Author of an Artificial Intelligence model for frost prediction that is based on a deep neuronal network. Tested based on the records reported by the meteorological network of CEAZA.
 
-### As a software programmer
+- Author of a System for the Observation of Territorial Dynamics and Zoning as an instrument to support decision making. Applied in a project funded by Corfo.
 
- - Coming soon
+- Author of the 100% Quality Batch Methodology currently marketed by Axity for IT process governance.
 
-### As a data scientist
+- Prize of the Ministry of Science and Technologies of the Environment of Cuba for the results obtained in scientific research.
 
- - Coming soon
+- Special Distinction Award of the Minister of Education for the results obtained in scientific research.
 
-### As an entrepreneur
-
- - Coming soon
+- ...
