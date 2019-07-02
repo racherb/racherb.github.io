@@ -10,13 +10,13 @@ For some time I have been working on the development of a Secure Artificial Inte
 
 Other topics not less important have been of obligatory reflection as they are the human relations, the feasibility for the consensus of a minimum global ethics, the legal aspects that underlie, the relations between the communities of free software and the current use of their creations, as well as the philosophy referring to the transforming trip from the human being towards the posthuman being.
 
-However, the most immediate and urgent is to design the bases that facilitate the establishment and development of a Secure Artificial Intelligence.
+However, it is imperative and urgent to design the bases that facilitate the establishment and development of a Secure Artificial Intelligence.
 
-While it is true that this would not prevent a Malignant Artificial Intelligence from taking place, it will be a key differentiating element in the approaching economy by allowing consumers to make informed decisions, allowing them to identify which of the products on the market is reliable.
+While it is true that this would not prevent a Malignant Artificial Intelligence from taking place, it will be a key differentiating element in the approaching economy by allowing consumers to make informed decisions, allowing them to identify which of the products on the market are reliable and safe.
 
-Secure Artificial Intelligence will provide a unique value that will be determinant in the commercial success of new products and services based on Artificial Intelligence at the same time that it will establish a new frame of reference for the improvement of human relations.
+Secure Artificial Intelligence will provide a unique value that will determine the commercial success of new products and services based on Artificial Intelligence while establishing a new frame of reference for improving relationships between humans and between humans and machines.
 
-Certainly, I still don't have the absolute clarity of what Secure Artificial Intelligence means, but it is very inspiring to be able to dedicate time to a topic that is just being installed in the scientific and popular culture.
+Certainly, I still do not have the absolute clarity of what a Secure Artificial Intelligence means but it is very inspiring to be able to dedicate time to a topic that is recently being installed in the scientific, technological and popular culture.
 
 Writing this blog forces me to give shape to the ideas that I have been developing for some time and I hope that the community is involved in some way.
 
@@ -39,7 +39,6 @@ Below is a non-exhaustive list of specific topics or tags that will be covered i
 * Transhumanism
 * Posthumanism
 * Free Software and Open Source
-
 
 
 
