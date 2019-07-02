@@ -1,16 +1,26 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who am I? I still ask myself that question
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Raciel Hernandez. I work at Axity as a full-time IT Senior Consultant and yet I still have the strength to want to change the world.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Here is a brief overview of my facets:
 
-What else do you need?
+### I, as a Chemical Engineer
 
-### my history
+- Professor of the Department of Materials Engineering, UMCC.
+- Scientific Ingestigator of the Centre for Anticorrosive and Surfactant Studies, UMCC.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### As a software programmer
+
+ - En construcción ...
+
+### As a data scientist
+
+ - En construcción ...
+
+### As an entrepreneur
+
+ - En construcción ...
