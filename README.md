@@ -17,6 +17,6 @@ At the moment I have adopted this restrictive form which will be replaced by a n
 
 ## Acknowledgements
 
-This blog is built on the template **beautiful-jekyll** provided by daattali (Copyright 2019 [Dean Attali] (https://github.com/daattali)) and published under MIT license.
+This blog is built on the template **beautiful-jekyll** provided by daattali (Copyright 2019 [Dean Attali](https://github.com/daattali) ) and published under MIT license.
 
 I want to personally thank Dean Attali and his team of contributors who have made this theme possible.
