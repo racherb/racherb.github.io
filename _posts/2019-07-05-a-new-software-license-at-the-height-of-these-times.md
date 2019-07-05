@@ -60,11 +60,11 @@ The community has the power to limit the use of their creations and thus keep th
 
 It is a small step but a solid and determining step at the moment it acquires a legal connotation.
 
-## What is expected of the community?
+## What is expected of the community
 
 The community is expected to be aware of the power of change it can offer by adopting a new type of licensing for *Socially Responsible Use* of Software Licenses.
 
-## How to do it?
+## How to do it
 
 - Offering a new licensing alternative that is practical, current, according to the times. Establishing a contractual framework based on the existing principles of free and open source software and that includes a clause that obliges the receiving party to adopt a commitment to socially responsible use.
 
@@ -76,3 +76,6 @@ The community is expected to be aware of the power of change it can offer by ado
 
 (Post in process ...)
 
+Update: 2019-07-05 01:01 AM
+
+Share and Comment 👇

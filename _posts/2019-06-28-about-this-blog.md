@@ -38,7 +38,6 @@ Below is a non-exhaustive list of specific topics or tags that will be covered i
 * *Posthumanism*
 * *Free & Open Software*
 
-
 Update: 2019-07-01 00:11 AM
 
 Share and Comment 👇
