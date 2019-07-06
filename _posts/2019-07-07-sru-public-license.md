@@ -39,22 +39,23 @@ By simply distributing a work under a new type of socially responsible use licen
 
 After reviewing all the existing types of free and open source software licensing, I realized that none of them provides a solution to the problem posed in our primitive question. In fact, we will address the dilemma we face later.
 
-#### A conjecture
+### A conjecture
 
 At this point and with the intention of understanding the relevance of this subject, I dare to raise the following conjecture:
 
-> If *Albert Einstein* were to resurrect, he would travel to the past to declare a license that would condition the Socially Responsible use of his most famous discovery. I am referring to the equivalence between mass and energy E = m c^2 .
-Despite the fact that it was Albert Einstein himself who suggested to President F. Roosevelt that he start a nuclear program, and knowing his later repentance, he would have said: "Publish E = m c^2 under Public License for Socially Responsible Use "*, thereby declaring his resounding opposition to the development and subsequent launch of the atomic bomb in Hiroshima and Nagasaki.
+> If *Albert Einstein* were to resurrect, he would travel to the past to declare a license that would condition the Socially Responsible use of his most famous discovery. I am referring to the equivalence between mass and energy E = m c^2  .
 
-Of course, the historical context was different and there was no cultural basis for establishing a similar type of licensing. But, the Free Software and Open Source movement is now established and the community manages very well among the various types of licensing that exist. Even so, the power of the community in the digital age has only begun to take off the democratization of society.
+> Despite the fact that it was Albert Einstein himself who suggested to President F. Roosevelt that he start a nuclear program, and knowing his later repentance, he would have said: "Publish E = m c^2 under Public License for Socially Responsible Use "*, thereby declaring his resounding opposition to the development and subsequent launch of the atomic bomb in Hiroshima and Nagasaki.
+
+Of course, the historical context was different and there was no cultural basis for establishing a similar type of licensing. But, the Free and Open Source movement is now established and the community manages very well among the various types of licensing that exist. Even so, the power of the community in the digital age has only begun to take off the democratization of society.
 
 Many are the motivations that make a creator share his work and the proposed new license SRU will be a source of new motivations, giving the developer a unique power in the development of society and that is that SRU is "community" but before we refer to a small dilemma.
 
 ## A little dilemma
 
-For the community it would be more convenient to annex SRU to the existing Free and Open Source Software movements, but, according to the OSI, on their website [opensource.org](https://opensource.org/faq#evil) Can I prevent "evil people" from using my program? The answer is a resounding "No" and it argues:
+For the community it would be more convenient to annex SRU to the existing Free and Open Source Software movements, but, according to the OSI, on their website [opensource.org](https://opensource.org/faq#evil) Can I prevent "*evil people*" from using my program? The answer is a resounding "No" and it argues:
 
-> The definition of open source specifies that open source licenses cannot discriminate against individuals or groups. Giving freedom to all also means giving freedom to the wicked*.
+> *The definition of open source specifies that open source licenses cannot discriminate against individuals or groups. Giving freedom to all also means giving freedom to the wicked*.
 
 And this answer seems to make sense before the proliferation of applications with AI. Do we want to give up the smallest principle of "responsibility" at any cost? No doubt this dilemma will bring a lot of debate online, but we want to focus on the new value we are creating.
 
