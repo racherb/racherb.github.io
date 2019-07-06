@@ -5,6 +5,7 @@ subtitle: A new software license at the height of these times.
 gh-repo: racherb/racherb.github.io
 comments: true
 published: true
+tags: [Free & Open Software, Safe AI, Software License, SRU]
 ---
 > Unleash the democratizing power of software developers and the community as a fundamental first step to achieve the development of Secure Artificial Intelligence
 
@@ -14,7 +15,7 @@ Free software has played an important role in the development and evolution of t
 
 These principles grant 4 key freedoms: *use*, *study*, *distribution*, and *improvement* of the software. However, the greatest value emerges from collaborative work, from learning that provides an open source, inspiration, and co-operation of the creative process.
 
-Similarly, *open source* has also played an important role. Both have been concerned with establishing a regulatory framework for dealing with proprietary software. Such a framework is clearly defined through the different types of software license that exist. For example, the **GPL** (*GNU General Public License*) requires inheritance of that license in new creations or changes based on a GPL-type license. It is a mature practice to be able to clearly show the terms and conditions under which a particular type of software is released. Similarly, there is an established culture for creative work that does not necessarily refer to software development, such as Creative Commons licenses.
+Similarly, *open source* has also played an important role. Both have been concerned with establishing a regulatory framework for dealing with proprietary software. Such a framework is clearly defined through the different types of software license that exist. For example, the **GPL** (*GNU General Public License*) requires inheritance of that license in new creations or changes based on a GPL-type license. It is a mature practice to be able to clearly show the terms and conditions under which a particular type of software is released. Similarly, there is an established culture for creative work that does not necessarily refer to software development, such as *Creative Commons* licenses.
 
 And all that is great because free and open source software licenses have facilitated the development and accelerated growth of the digital age.
 
@@ -30,7 +31,7 @@ Recently, in the *International Joint Conferences on Artificial Intelligence Org
 
 ## The opportunity
 
-Considering that the software developer is at the center of the creative and transformative activity of the digital age, that his creative work will define the future of Artificial Intelligence, that the community of developers is characterized by its humanistic sense of collaboration and social commitment, then, I consider it opportune and necessary to give the tools so that "*the developer or creator*", together with the community, can play a more active role through a new form of *licensing* of their creative work.
+Considering that **the software developer is at the center of the creative and transformative activity of the digital age**, that his creative work will define the future of Artificial Intelligence, that the community of developers is characterized by its humanistic sense of collaboration and social commitment, then, I consider it opportune and necessary to give the tools so that "*the developer or creator*", together with the community, can play a more active role through a new form of *licensing* of their creative work.
 
 When, in the early 1980s, *Richard Stallman* laid the foundation for free software, the risks associated with AI development were not an issue of concern in the developer community. Had it been, free software activists would likely have considered a **responsible use** clause in their software license terms. After all, who would want their source code, published under the terms and conditions of an MIT license, such as, to end up being used against humanity? This question may have a clear answer in most of the community, however, the introduction of a new license poses several challenges.
 
