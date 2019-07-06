@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The first step to a Safe AI
+title: A necessary step for Safe AI
 subtitle: A new software license at the height of these times.
 gh-repo: racherb/racherb.github.io
 comments: true
