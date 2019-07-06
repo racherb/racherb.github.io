@@ -44,7 +44,7 @@ After reviewing all the existing types of free and open source software licensin
 At this point and with the intention of understanding the relevance of this subject, I dare to raise the following conjecture:
 
 > If *Albert Einstein* were to resurrect, he would travel to the past to declare a license that would condition the Socially Responsible use of his most famous discovery. I am referring to the equivalence between mass and energy E = m c^2  .
-
+>
 > Despite the fact that it was Albert Einstein himself who suggested to President F. Roosevelt that he start a nuclear program, and knowing his later repentance, he would have said: "Publish E = m c^2 under Public License for Socially Responsible Use "*, thereby declaring his resounding opposition to the development and subsequent launch of the atomic bomb in Hiroshima and Nagasaki.
 
 Of course, the historical context was different and there was no cultural basis for establishing a similar type of licensing. But, the Free and Open Source movement is now established and the community manages very well among the various types of licensing that exist. Even so, the power of the community in the digital age has only begun to take off the democratization of society.
