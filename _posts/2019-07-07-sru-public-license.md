@@ -7,7 +7,7 @@ comments: true
 published: true
 tags: [Free & Open Software, Safe AI, Software License, SRU]
 ---
-> This project is part of the **Iamio** initiative for interoperability and advanced entity relationships for the development of secure AI.
+This publication addresses a primitive question to understand the need for a new software license, raises a conjecture, mentions the dilemma it will face, and makes an open invitation to adopt the new SRU license.
 
 ## Preamble
 
@@ -21,7 +21,7 @@ And it is that to regulate the artificial intelligence could be imperative, even
 
 Without further ado, below is the question.
 
-### The primitive question
+## The primitive question
 
 Considering the risks associated with the development of out-of-control AI:
 
@@ -39,17 +39,17 @@ By simply distributing a work under a new type of socially responsible use licen
 
 After reviewing all the existing types of free and open source software licensing, I realized that none of them provides a solution to the problem posed in our primitive question. In fact, we will address the dilemma we face later.
 
-### A conjecture
+## A conjecture
 
 At this point and with the intention of understanding the relevance of this subject, I dare to raise the following conjecture:
 
 > If *Albert Einstein* were to resurrect, he would travel to the past to declare a license that would condition the Socially Responsible use of his most famous discovery. I am referring to the equivalence between mass and energy E = m c^2  .
 >
-> Despite the fact that it was Albert Einstein himself who suggested to President F. Roosevelt that he start a nuclear program, and knowing his later repentance, he would have said: "Publish E = m c^2 under Public License for Socially Responsible Use "*, thereby declaring his resounding opposition to the development and subsequent launch of the atomic bomb in Hiroshima and Nagasaki.
+> Despite the fact that it was *Albert Einstein* himself who suggested to President *F. Roosevelt* that he start a nuclear program, and knowing his later repentance, he would have said: *"Publish E = m c^2 under Public License for Socially Responsible Use"*, thereby declaring his resounding opposition to the development and subsequent launch of the atomic bomb in Hiroshima and Nagasaki.
 
 Of course, the historical context was different and there was no cultural basis for establishing a similar type of licensing. But, the Free and Open Source movement is now established and the community manages very well among the various types of licensing that exist. Even so, the power of the community in the digital age has only begun to take off the democratization of society.
 
-Many are the motivations that make a creator share his work and the proposed new license SRU will be a source of new motivations, giving the developer a unique power in the development of society and that is that SRU is "community" but before we refer to a small dilemma.
+Many are the motivations that make a creator share his work and the proposed new license SRU will be a source of new motivations, giving the developer a unique power in the development of society and that is that SRU is "**community**" but before we refer to a small dilemma.
 
 ## A little dilemma
 
@@ -69,10 +69,16 @@ The effort made by individuals and leading companies in the sector to provide th
 
 The risk of proliferation of out-of-control AI applications is real. Major technology companies have expressed concern about this and have signed non-proliferation agreements with IA.
 
-That is why we call upon and invite all technology companies and industry leaders to adopt the **Socially Responsible Use License (SRU) modality **in their current licensing forms and thereby establish a legal framework that limits the use of software towards a pragmatic way and compatible with the most basic principles of humanity.
+That is why we call upon and invite all technology companies and industry leaders to adopt the **Socially Responsible Use License** (SRU) modality in their current licensing forms and thereby establish a legal framework that limits the use of software towards a pragmatic way and compatible with the most basic principles of humanity.
 
-The impact that a company such as **Google Inc. **, for example, releases *TensorFlow* under the modality of **SRU Licensing** would transfer responsibility to all those who use the application to be responsible for the purpose of their derived applications.
+The impact that a company such as **Google Inc.**, for example, releases *TensorFlow* under the modality of **SRU Licensing** would transfer responsibility to all those who use the application to be responsible for the purpose of their derived applications.
 
 Signing agreements not to develop weapons with IA, of course, is positive, but, it is insufficient when those same companies that sign that agreement release software under a free software license that is subsequently used by other entities or individuals to train and develop IA weapons.
 
-From our point of view applying the SRU License is a practical, useful, easy to install and socially impacting approach. That is why we invite you to join this initiative by publishing your work under the modality of SRU License. We are working to facilitate the implementation of SRU with other types of existing licenses.
+From our point of view applying the **SRU License** is a practical, useful, easy to install and socially impacting approach. That is why we invite you to join this initiative by publishing your work under the modality of **SRU License**.
+
+Just now, we are working to facilitate the implementation of SRU with other types of existing licenses.
+
+Does this make sense to you? Let me know your point of view by leaving your comment or email me directly if you wish.
+
+> This project is part of the **Iamio** initiative for interoperability and advanced entity relationships for the development of secure AI.

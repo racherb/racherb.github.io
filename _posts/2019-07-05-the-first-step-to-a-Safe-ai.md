@@ -7,7 +7,7 @@ comments: true
 published: true
 tags: [Free & Open Software, Safe AI, Software License, SRU]
 ---
-> Unleash the democratizing power of software developers and the community as a fundamental first step to achieve the development of Secure Artificial Intelligence
+> Unleash the democratizing power of software developers and the community as a fundamental first step to achieve the development of Secure Artificial Intelligence.
 
 ## Preamble
 
@@ -44,13 +44,13 @@ Definition of the SRU license in the legal and functional framework.
 
 Considering the *mare magnum* of licensing options existing in this industry:
 
-- Is the definition of a new software license justified?
+- :one: Is the definition of a new software license justified?
 
-- How to make it without adding more confusion to the existing problem of license proliferation, without duplicating reestablished concepts or interfering with existing ones?
+- :two: How to make it without adding more confusion to the existing problem of license proliferation, without duplicating reestablished concepts or interfering with existing ones?
 
-- How to apply it effectively and without social exclusion?
+- :three: How to apply it effectively and without social exclusion?
 
-- How would you give to the development of Secure Artificial Intelligence?
+- :four: How would you give to the development of Secure Artificial Intelligence?
 
 These are some challenges that a new type of license will have to solve.
 
