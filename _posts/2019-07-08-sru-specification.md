@@ -11,13 +11,13 @@ The achievement of Safe Artificial Intelligence begins with the will of those wh
 
 > Laying the foundation for secure artificial intelligence.
 
-# What is the SRU license
+## What is the SRU license
 
-SRU stands for Socially Responsible Use and is a type of license that grants a **obligation** to the recipient or beneficiary of the license, who is obligated to make socially responsible use of the license.
+**SRU** stands for Socially Responsible Use and is a type of license that grants a **obligation** to the recipient or beneficiary of the license, who is obligated to make socially responsible use of the license.
 
-This obligation is determined by the **level** of social responsibility that the author or owner of the creative work (the provider) determines that the recipient of the license must comply with.
+This obligation is determined by the **level of social responsibility** that the author or owner of the creative work (*the provider*) determines that the recipient of the license must comply with.
 
-SRU Levels range from one to four and are preset as described in the topic "SRU Levels".
+**SRU Levels** range from one to four and are preset as described in the topic "SRU Levels".
 
 At all times, SRU is a legal statement of intent adopted by an individual or entity to ensure that the use of his or her creative work is clearly for the benefit of humanity and not contrary to it. They are general, non-discriminatory, easy to understand and based on the basic principles of equity and justice.
 
@@ -27,32 +27,32 @@ The level (**L**) of an SRU License determines the degree of social responsibili
 
 Thus, the following 4 levels of SRU have been established:
 
-- SRU-L1**: General license for peaceful purposes.
-- SRU-L2**: Special license for CSR companies.
-- SRU-L3**: Social integration license.
-- SRU-L4**: Social commitment license.
+- **SRU-L1**: General license for peaceful purposes.
+- **SRU-L2**: Special license for CSR companies.
+- **SRU-L3**: Social integration license.
+- **SRU-L4**: Social commitment license.
 
 The characteristics of each of them are described below.
 
-### SRU-L1: General License for Peaceful Purposes
+### SRU-L1 General License for Peaceful Purposes
 
-**SRU-L1** is known as the General License for Peaceful Purposes and states that real or virtual persons or entities who are direct or indirect beneficiaries of the licensed product or service may not apply such product or service, or the partial or final results derived from such use, for military purposes of any kind, or for any other warmongering purpose, either directly or indirectly, to the detriment of human beings.
+**SRU-L1** is known as the **General License for Peaceful Purposes** and states that real or virtual persons or entities who are direct or indirect beneficiaries of the licensed product or service may not apply such product or service, or the partial or final results derived from such use, for military purposes of any kind, or for any other warmongering purpose, either directly or indirectly, to the detriment of human beings.
 
 **Applies to**: Natural or legal persons, virtual or real entities, governmental entities, organizations, companies, associations, groups of persons, individuals or any other entity that makes use of the licensed product or service.
 
-### SRU-L2: Social Responsibility Companies
+### SRU-L2 Social Responsibility Companies
 
-**This license is an increase of the SRU-L1 by how much it implicitly contains the obligations stated in SRU-L1. Level 2 tacitly states that only those government and business entities that comply with the 10 principles of the *UN Global Compact* of the United Nations Global Compact can benefit from the licensed product or service.
+This license (SRU-L2) is an increase of the **SRU-L1** by how much it implicitly contains the obligations stated in SRU-L1. Level 2 tacitly states that only those government and business entities that comply with the 10 principles of the *UN Global Compact* of the *United Nations Global Compact* can benefit from the licensed product or service.
 
 **Applies to**: Legal persons, governmental entities, non-governmental organizations, public or private companies, associations or groups of persons with a duly established social role.
 
-### SRU-L3: Social Integration
+### SRU-L3 Social Integration
 
-**SRU-L3** or Level 3 Social Responsibility. This license is an increase of the SRU-L1 by how much it contains the obligations declared by SRU-L1. This level tacitly states that only those entities that, by virtue of their internal human resource management policies, hire disabled persons on a regular and recurring basis, can benefit from the product or service being licensed.
+**SRU-L3** or Level 3 Social Responsibility. This license is an increase of the **SRU-L1** by how much it contains the obligations declared by SRU-L1. This level tacitly states that only those entities that, by virtue of their internal human resource management policies, hire disabled persons on a regular and recurring basis, can benefit from the product or service being licensed.
 
 **Applies to: Legal persons, governmental entities, non-governmental organizations, public or private companies, associations or groups of persons with a duly established social role.
 
-### SRU-L4: Social Commitment
+### SRU-L4 Social Commitment
 
 **SRU-L4**: Level 4 Social Responsibility. Contains all the obligations declared in the previous levels (SRU-L1, SRU-L2 and SRU-L3).
 
@@ -86,6 +86,13 @@ The SRU license does not restrict anyone from making use of the program in a spe
 
 ### License Distribution
 
+...
+
 ### Applicability and use
 
-- SRU-L1234
+- SRU-L1
+- SRU-L2
+- SRU-L3
+- SRU-L4
+- MIT-SRU-L1
+- GLP-SRU-L4
