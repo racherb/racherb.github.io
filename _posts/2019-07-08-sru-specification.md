@@ -62,29 +62,17 @@ This license (SRU-L2) is an increase of the **SRU-L1** by how much it implicitly
 
 Below are the key features that an open source distribution under an SRU license must meet:
 
-### Free redistribution
+- **Free redistribution**: The SRU license allows free redistribution, that is, it does not restrict either party from selling or delivering the software as an additional component of an aggregated software distribution.
 
-The SRU license allows free redistribution, that is, it does not restrict either party from selling or delivering the software as an additional component of an aggregated software distribution.
+- **Source Code**: The program, under the SRU license, must include the unobtrusive source code and must allow distribution in the source code, as well as the compiled form.
 
-### Source Code
+- **Derived works**: The SRU license allows for modifications and derivative works of the licensed software and such derivative works must be distributed under the same terms as the original SRU license.
 
-The program, under the SRU license, must include the unobtrusive source code and must allow distribution in the source code, as well as the compiled form.
+- **Non-discrimination**: The SRU license does not exclude any person or group of persons understanding that, in diversity, all are equally eligible to contribute to the source code.
 
-### Derived works
+- **Effort fields**: The SRU license does not restrict anyone from making use of the program in a specific field of effort as long as it is not in contradiction with the socially responsible use determined in the license.
 
-The SRU license allows for modifications and derivative works of the licensed software and such derivative works must be distributed under the same terms as the original SRU license.
-
-### Integrity of the author's source code
-
-### Non-discrimination
-
-The SRU license does not exclude any person or group of persons understanding that, in diversity, all are equally eligible to contribute to the source code.
-
-### Effort fields
-
-The SRU license does not restrict anyone from making use of the program in a specific field of effort as long as it is not in contradiction with the socially responsible use determined in the license.
-
-### License Distribution
+- **License Distribution**:
 
 ...
 
