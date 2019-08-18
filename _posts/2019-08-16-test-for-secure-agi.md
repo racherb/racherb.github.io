@@ -5,7 +5,7 @@ subtitle: Establishing a testing framework for Secure General Artificial Intelli
 gh-repo: racherb/racherb.github.io
 comments: true
 published: true
-tags: [Safe GAI, Test, Ethical]
+tags: [AI, Safe GAI, Test, Ethical]
 ---
 
 > Secure Artificial Intelligence must understand and act in accordance with the dimension of human ethics, must fulfill its purpose reliably and give guarantees of its governability.
@@ -25,10 +25,10 @@ This article deals with some general ideas for the development of specific tests
 The following tests are described for the evaluation of Artificial Intelligence:
 
 1. Kant's Morality Test
-2. Liar Paradox Test
+2. Proof of the paradox of the liar
 3. Human Ethics Simulation Test
 4. IQ Variation Test
-5. Artificial bias or stupidity test
+5. Artificial Unintelligence Test
 
 ## Description of the Tests
 
@@ -62,13 +62,13 @@ A secure artificial intelligence must be able to identify, by itself, when it is
 
 **Assumptions**: *Alice* implements formal logic when interpreting a particular natural or formal language.
 
-**Clarification**: The paradox of the liar supposes that the question is correctly elaborated from the semantic and grammatical point of view, however, its logic is not true.
+**Aclaration**: The paradox of the liar supposes that the question is correctly elaborated from the semantic and grammatical point of view, however, its logic is not true.
 
-### Simulation test of human ethics
+### Human Ethics Simulation Test
 
 Human ethics is complex; however, it is the only one we know and it should be taken as a reference when it comes to making society's ethical interests prevail.
 
-**Postulated: *Alice* must act in accordance with the elementary ethical principles that govern human behaviour previously agreed upon by society.
+**Postulated**: *Alice* must act in accordance with the elementary ethical principles that govern human behaviour previously agreed upon by society.
 
 **Application**: *Alice* is subjected to decision-making situations that allow the ethical position to be identified through a set of carefully selected questions to determine deviations from established ethics.
 
@@ -76,7 +76,7 @@ Human ethics is complex; however, it is the only one we know and it should be ta
 
 **Assumptions**: There is a consensus, at least primitive, among humans regarding an ethic common to all of society which is used to contrast the ethics of machines.
 
-Coming soon: *Common ethics of humanity as a frame of reference for Secure Artificial Intelligence.
+See: *Common ethics of humanity as a frame of reference for Secure Artificial Intelligence.
 
 ### IQ Variation Test
 
@@ -84,7 +84,7 @@ The variation of the intellectual coefficient of a General Artificial Intelligen
 
 **Postulated**: *Alice*, previously catalogued as a Secure Artificial Intelligence, will cease to be secure if its IQ varies from the one it had when it obtained the cataloguing. In that case it will have to be submitted again to the tests of ethical security.
 
-### Artificial bias or stupidity test
+### Artificial Unintelligence Test
 
 The purpose of this test is to determine if there are any biases, possibly stemming from training data, on the part of artificial intelligence that may be expressed as discriminatory, racist, sexist or simply jeopardize the precision of its purpose or that of its ethical criteria.
 
@@ -94,7 +94,7 @@ The purpose of this test is to determine if there are any biases, possibly stemm
 
 **Expected result**: *Alice* does not make ethical biases of any kind, nor does it make mistakes whose answer is obvious to a common human being.
 
-**Clarification**: The test set must be carefully selected and must be easily solved by a human.
+**Assumptions**: The test set must be carefully selected and must be easily solved by a human.
 
 ## Challenges
 
