@@ -4,15 +4,16 @@ title: Contents
 subtitle: These are the topics that I hope to be able to complete one day.
 ---
 
-> "Si piensas que eres demasiado pequeño como para hacer una diferencia, es que no has dormido nunca con un mosquito en la habitación”.
-> *Proverbio Africano*.
+> "A simple idea may have the power to change the world, but it is worth nothing if it is not shared".
+>
+> *Raciel Hernandez*.
 
-### About this Blog
+#### About this Blog
 
-### Safe Artificial Intelligence
+#### Safe Artificial Intelligence
 
-### Theorems and functional programming
+#### Theorems and functional programming
 
-### Fixing The Web
+#### Fixing The Web
 
-### Experience and Personal Life
+#### Experience and Personal Life
