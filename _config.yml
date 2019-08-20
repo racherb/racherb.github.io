@@ -20,7 +20,8 @@ description: Official website
 
 # List of links in the navigation bar
 navbar-links:
-  Projects:
+  Contents: "contents"
+  Projects: "projects"
   About Me: "aboutme"
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"

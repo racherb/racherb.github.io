@@ -11,4 +11,3 @@ Legal specifications can be found on the official [Creative Commons](https://cre
 ## Acknowledgements
 
 This blog is built on the template **beautiful-jekyll** provided by [daattali](https://github.com/daattali) Copyright 2019 **Dean Attali** and published under MIT license.
-
