@@ -1,17 +1,18 @@
 ---
 layout: page
 title: Contents
-subtitle: So that you don't get lost, I present you an ordered view of contents by topic.
+subtitle: These are the topics that I hope to be able to complete one day.
 ---
 
-> "These are the topics that I hope to be able to complete one day, hoping that a saving hand will allow me to dedicate full time to it."
+> "Si piensas que eres demasiado pequeño como para hacer una diferencia, es que no has dormido nunca con un mosquito en la habitación”.
+> *Proverbio Africano*.
 
-## About this Blog
+### About this Blog
 
-## Safe Artificial Intelligence
+### Safe Artificial Intelligence
 
-## Theorems and functional programming
+### Theorems and functional programming
 
-## New Software Specifications
+### Fixing The Web
 
-## Experience and Personal Life
+### Experience and Personal Life
