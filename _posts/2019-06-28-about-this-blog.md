@@ -25,14 +25,14 @@ Dear reader, if you have come this far I would like to welcome you to my Blog an
 Below is a non-exhaustive list of specific topics or tags that will be covered in this blog:
 
 * *Functional programming*    (**Haskell**, **FP**)
-* *Theorem Provers*           (**Coq**)
-* *Data Science*              (**R**, **Python**)
-* *Artificial Intelligence*   (**AI**)
+* *Theorem Provers*           (**Coq**, **FStar**)
+* *Data Science*              (**Lua**, **Julia**, **R**, **Python**)
+* *Artificial Intelligence*   (**AI**, **GAI**)
 * *Data Structures*           (**Data**)
 * *Machine Learning*          (**ML**)
 * *Software design*           (**Design**)
-* *System Security*
-* *Blockchain*
+* *System Security*           (**Security**)
+* *Blockchain*                (**Blockchain**, **SmartContracts**)
 * *Ethics*
 * *Transhumanism*
 * *Posthumanism*

@@ -44,13 +44,13 @@ Definition of the SRU license in the legal and functional framework.
 
 Considering the *mare magnum* of licensing options existing in this industry:
 
-- :one: Is the definition of a new software license justified?
+- Is the definition of a new software license justified?
 
-- :two: How to make it without adding more confusion to the existing problem of license proliferation, without duplicating reestablished concepts or interfering with existing ones?
+- How to make it without adding more confusion to the existing problem of license proliferation, without duplicating reestablished concepts or interfering with existing ones?
 
-- :three: How to apply it effectively and without social exclusion?
+- How to apply it effectively and without social exclusion?
 
-- :four: How would you give to the development of Secure Artificial Intelligence?
+- How would you give to the development of Secure Artificial Intelligence?
 
 These are some challenges that a new type of license will have to solve.
 
@@ -63,6 +63,8 @@ The community has the power to limit the use of their creations and thus keep th
 It is a small step but a solid and determining step at the moment it acquires a legal connotation.
 
 ## What is expected of the community
+
+> The first step towards achieving Secure Artificial Intelligence begins with the will of its creator: "The Man".
 
 The community is expected to be aware of the power of change it can offer by adopting a new type of licensing for *Socially Responsible Use* of Software Licenses.
 
