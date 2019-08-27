@@ -6,6 +6,7 @@ gh-repo: racherb/racherb.github.io
 comments: true
 published: true
 tags: [Free & Open Software, Safe AI, Software License, SRU]
+categories: [SRU]
 ---
 The achievement of Safe Artificial Intelligence begins with the will of those who want to differentiate their creation. The new SRU license offers a legal framework and the opportunity to make creators' commitment to their community transparent.
 

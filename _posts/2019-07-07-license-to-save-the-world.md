@@ -1,11 +1,12 @@
 ---
 layout: post
-title: SRU Public License
-subtitle: Laying the foundation for secure artificial intelligence. 
+title: License to save the world
+subtitle: Laying the foundation for secure artificial intelligence
 gh-repo: racherb/racherb.github.io
 comments: true
 published: true
 tags: [Free & Open Software, Safe AI, Software License, SRU]
+categories: [SRU]
 ---
 This publication addresses a primitive question to understand the need for a new software license, raises a conjecture, mentions the dilemma it will face, and makes an open invitation to adopt the new SRU license.
 

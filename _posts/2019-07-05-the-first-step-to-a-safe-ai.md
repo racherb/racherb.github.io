@@ -6,7 +6,9 @@ gh-repo: racherb/racherb.github.io
 comments: true
 published: true
 tags: [Free & Open Software, Safe AI, Software License, SRU]
+categories: [SRU]
 ---
+
 > Unleash the democratizing power of software developers and the community as a fundamental first step to achieve the development of Secure Artificial Intelligence.
 
 ## Preamble
