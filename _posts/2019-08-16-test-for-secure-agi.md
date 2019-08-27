@@ -8,8 +8,7 @@ published: true
 tags: [AI, GAI, Safe AI, Test, Ethical]
 categories: [AI]
 ---
-
-Secure Artificial Intelligence must understand and act under human ethics dimension, must fulfill its purpose and give guarantees of its governability.
+Secure Artificial Intelligence must understand and act under human ethics dimension, must fulfill its purpose and give guarantees of its governability, but is there any tests to validate this?
 
 ## Motivation
 
