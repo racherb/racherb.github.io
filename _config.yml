@@ -249,5 +249,11 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Beautiful Jekyll / Dean Attali
+mailchimp:
+  - audience: "FixingTheWeb Blog Newsletter"
+  - user: "538efb6ccf8a58ff4fe8d6108"
+  - id: "898abcf0269d7119cd3067016"
+  - suscribe
+
+  # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
