@@ -1,6 +1,6 @@
 ---
 layout: post
-title: License to save the world
+title: License To Save The World
 subtitle: Laying the foundation for secure artificial intelligence
 gh-repo: racherb/racherb.github.io
 comments: true

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Tests for Safe General Artificial Intelligence
+title: Tests For Safe General Artificial Intelligence
 subtitle: Establishing a testing framework for Secure General Artificial Intelligence. 
 gh-repo: racherb/racherb.github.io
 comments: true
 published: true
-tags: [AI, GAI, Safe AI, Test, Ethical]
+tags: [artificial, intelligenge, general, ai, gai, ethical, machine, test, proof]
 categories: [AI]
 ---
 Secure Artificial Intelligence must understand and act under human ethics dimension, must fulfill its purpose and give guarantees of its governability, but is there any tests to validate this?
