@@ -1,5 +1,5 @@
 {% assign wordcount = include.content | number_of_words %}
-{% assign description = include.content | strip_html | xml_escape | normalize_whitepace | strip_newlines | strip | truncate=400 %}
+{% assign description = include.content | strip_html | xml_escape | normalize_whitepace | strip_newlines | strip | truncate:400 %}
 
 <script type="application/ld+json">
 {  
@@ -30,13 +30,13 @@
       ],
       "logo": {
   		"@type": "ImageObject",
-  		"contentUrl": "https://racherb.github.io/img/logo.png",
-  		  "url": "https://racherb.github.io"
+  		"contentUrl": "https://racherb.github.io/img/avatar-icon.png",
+  		"url": "https://racherb.github.io"
     }
    },
    "image":{  
       "@type":"ImageObject",
-      "contentUrl":"https://racherb.github.io/img/cardboard.jpg",
+      "contentUrl":"https://racherb.github.io/img/cardboard.png",
       "url":"https://racherb.github.io",
       "height":"450",
       "width":"1000"
