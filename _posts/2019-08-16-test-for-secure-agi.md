@@ -6,7 +6,9 @@ gh-repo: racherb/racherb.github.io
 comments: true
 published: true
 tags: [artificial, intelligenge, general, ai, gai, ethical, machine, test, proof]
+keywords: artificial, intelligenge, general, ai, gai, ethical, machine, test, proof
 categories: [AI]
+last-modified: 2019-08-29
 ---
 Secure Artificial Intelligence must understand and act under human ethics dimension, must fulfill its purpose and give guarantees of its governability, but is there any tests to validate this?
 

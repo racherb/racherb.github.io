@@ -6,12 +6,12 @@ layout: base
 
 {% 
   include microdata_post.html 
-  headline=page.title
-  genre=page.category
-  keywords=page.keywords
-  content=page.content
-  link=page.permalink
-  date=page.date
+  headline = page.title
+  genre = page.categories.first
+  keywords = page.keywords
+  content = page.content
+  link = page.permalink
+  date = page.date
 %}
 
 <div class="container">

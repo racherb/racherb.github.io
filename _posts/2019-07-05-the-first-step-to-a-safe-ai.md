@@ -5,8 +5,10 @@ subtitle: A new software license at the height of these times.
 gh-repo: racherb/racherb.github.io
 comments: true
 published: true
-tags: [free, open source, safe, artificial, intelligence, software, license, sru, social, safe]
+tags: [open source, safe, artificial, intelligence, software, license, sru, social, safe]
+keywords: open source, safe, artificial, intelligence, software, license, sru, social, safe
 categories: [SRU]
+last-modified: 2019-08-29
 ---
 
 > Unleash the democratizing power of software developers and the community as a fundamental first step to achieve the development of Secure Artificial Intelligence.
@@ -82,7 +84,7 @@ The community is expected to be aware of the power of change it can offer by ado
 
 In the next blog post I will continue to address this issue.
 
-To reference this publication, please use the following citation:
+Cite this post as:
 
 > *Hernández Barroso, Raciel. «A Necessary Step for Safe Ai». Blog, 5 de julio de 2019. https://racherb.github.io/2019-07-05-the-first-step-to-a-safe-ai/*.
 

@@ -1,10 +1,13 @@
 ---
 layout: post
-title: About this Blog
+title: About This Blog
 subtitle: A blog of reflection, personal experience, ideas, and innovation.
 gh-repo: racherb/racherb.github.io
 comments: true
 published: true
+keywords: open source, safe, safety, artificial, intelligence, software, functional programming, fp, haskell, coq, lua, julia
+categories: [SRU]
+last-modified: 2019-08-29
 ---
 For some time I have worked on the development of Secure Artificial Intelligence. That has led me to think about the fundamental problems of various kinds. Problems related to *programming*, *system design*, *machine learning*, *artificial intelligence*, computer system *security*, *social networks*, and their *business models*.
 

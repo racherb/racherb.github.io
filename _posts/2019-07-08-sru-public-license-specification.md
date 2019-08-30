@@ -5,8 +5,10 @@ subtitle: A new type of license for general and IA-based software creations.
 gh-repo: racherb/racherb.github.io
 comments: true
 published: true
-tags: [Free & Open Software, Safe AI, Software License, SRU]
+tags: [open source, safe, artificial, intelligence, software, license, sru, social, specification]
+keywords: open source, safe, artificial, intelligence, software, license, sru, social, specification
 categories: [SRU]
+last-modified: 2019-08-29
 ---
 The achievement of Safe Artificial Intelligence begins with the will of those who want to differentiate their creation. The new SRU license offers a legal framework and the opportunity to make creators' commitment to their community transparent.
 

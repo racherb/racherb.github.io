@@ -1,19 +1,22 @@
 {% assign wordcount = include.content | number_of_words %}
+{% assign description = include.content | strip_html | xml_escape | normalize_whitepace | strip_newlines | strip | truncate=400 %}
 
 <script type="application/ld+json">
 {  
    "@context":"http://schema.org",
    "@type":"BlogPosting",
    "headline":"{{ include.headline }}",
-   "genre":"{{ include.category }}",
+   "genre":"{{ include.genre }}",
    "keywords":"{{ include.keywords }}",
    "wordCount":"{{ wordcount }}",
+   "description": "{{ description }}",
    "url":"https://racherb.github.io{{ include.link }}",
    "datePublished":"{{ include.date | | date: '%Y-%m-%d' }}",
+   "dateModified": "{{ page.last-modified | | date: '%Y-%m-%d' }}",
    "author":{  
       "@type":"Person",
       "name":"Raciel Hernández Barroso",
-      "sameAs":[  
+      "sameAs":[
         "https://twitter.com/racherbx",
         "https://github.com/racherb"
       ]
@@ -27,13 +30,13 @@
       ],
       "logo": {
   		"@type": "ImageObject",
-  		"contentUrl": "https://racherb.github.io/images/logo.png",
+  		"contentUrl": "https://racherb.github.io/img/logo.png",
   		  "url": "https://racherb.github.io"
     }
    },
    "image":{  
       "@type":"ImageObject",
-      "contentUrl":"https://racherb.github.io/images/cardboard.jpg",
+      "contentUrl":"https://racherb.github.io/img/cardboard.jpg",
       "url":"https://racherb.github.io",
       "height":"450",
       "width":"1000"
