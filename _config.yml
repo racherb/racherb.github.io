@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Raciel's Blog
+title: Fixing The Web
 
 # Short description of your site
-description: A blog of reflection, personal experience, ideas, and innovation.
+description: Raciel's Blog. A blog of reflection, personal experience, ideas, and innovation.
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -61,7 +61,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Raciel Hernández B.
+  name: Raciel Hernández Barroso.
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -249,11 +249,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-mailchimp:
-  - audience: "FixingTheWeb Blog Newsletter"
-  - user: "538efb6ccf8a58ff4fe8d6108"
-  - id: "898abcf0269d7119cd3067016"
-  - suscribe
+mailchimp: "538efb6ccf8a58ff4fe8d6108/898abcf0269d7119cd3067016"
 
-  # Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
+heatmap: "" #"jotjar"

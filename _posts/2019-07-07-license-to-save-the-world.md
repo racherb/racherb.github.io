@@ -6,7 +6,7 @@ gh-repo: racherb/racherb.github.io
 comments: true
 published: true
 tags: [open software, license, sru, artificial intelligence, ai]
-keywords: open software, license, sru, artificial intelligence, ai
+keywords: open source, safe, artificial, intelligence, software, license, sru, social, safe
 categories: [SRU]
 last-modified: 2019-08-29
 ---

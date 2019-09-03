@@ -1,5 +1,5 @@
 {% assign wordcount = include.content | number_of_words %}
-{% assign description = include.content | strip_html | xml_escape | normalize_whitepace | strip_newlines | strip | truncate:400 %}
+{% assign description = include.content | strip_html | xml_escape | normalize_whitepace | strip_newlines | strip | truncate:110 %}
 
 <script type="application/ld+json">
 {  
