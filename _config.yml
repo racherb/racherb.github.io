@@ -4,7 +4,8 @@
 title: Fixing The Web
 
 # Short description of your site
-description: Raciel's Blog. A blog of reflection, personal experience, ideas, and innovation.
+description: Raciel's Personal Blog. 
+#A blog of reflection, personal experience, ideas, and innovation.
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,12 +21,10 @@ description: Raciel's Blog. A blog of reflection, personal experience, ideas, an
 
 # List of links in the navigation bar
 navbar-links:
-  Contents: "contents"
-  Projects: "projects"
+  #Contents: "contents"
+  #Projects: "projects"
   About Me: "aboutme"
-  #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-  #  - Learn markdown: "http://www.markdowntutorial.com/"
-  #Author's home: "http://author.com"
+
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -62,6 +61,7 @@ footer-link-col: "#404040"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Raciel Hernández Barroso.
+  twitter: racherbx
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -69,19 +69,19 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "racherb@protonmail.com"
+  email: "racherb At protonmail Dot com"
   github: racherb
   twitter: racherbx
 #  reddit: yourname
   linkedin: racielhernandez
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
+#  stackoverflow: ""
+#  snapchat: yourname
+#  instagram: yourname
+#  youtube: user/yourname
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+#  telephone: +xxx
+#  steam: yourname
 #  twitch: yourname
 #  yelp: yourname
 
