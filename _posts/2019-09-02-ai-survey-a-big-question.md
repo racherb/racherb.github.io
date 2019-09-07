@@ -18,7 +18,7 @@ Considering the risks associated with the development of out-of-control Artifici
 
 **Goal**: The goal of the survey is to know the attitude of the community before the option of including a clause of Social Responsibility in the use and development of applications with Artificial Intelligence.
 
-**Survey**: A minute of your time that could save the world! It doesn't matter if you are a programmer, engineer, artist, lawyer or builder. Everyone can participate. Answer this survey honestly and you will deliver a unique value to the community. [*Go to the SURVEY*](https://es.surveymonkey.com/r/9G6V667)
+**Survey**: A minute of your time that could save the world! It doesn't matter if you are a programmer, engineer, artist, lawyer or builder. Everyone can take part. Answer this survey and you will deliver a unique value to the community. [*Go to the SURVEY*](https://es.surveymonkey.com/r/9G6V667)
 
 ### Backgrounds
 
