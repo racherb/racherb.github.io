@@ -53,7 +53,7 @@ This license (SRU-L2) is an increase of the **SRU-L1** by how much it implicitly
 
 **SRU-L3** or Level 3 Social Responsibility. This license is an increase of the **SRU-L1** by how much it contains the obligations declared by SRU-L1. This level tacitly states that only those entities that, by virtue of their internal human resource management policies, hire disabled persons on a regular and recurring basis, can benefit from the product or service being licensed.
 
-**Applies to: Legal persons, governmental entities, non-governmental organizations, public or private companies, associations or groups of persons with a duly established social role.
+**Applies to**: Legal persons, governmental entities, non-governmental organizations, public or private companies, associations or groups of persons with a duly established social role.
 
 ### SRU-L4 Social Commitment
 

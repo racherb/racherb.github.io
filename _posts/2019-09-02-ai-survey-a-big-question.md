@@ -22,7 +22,12 @@ Considering the risks associated with the development of out-of-control Artifici
 
 ### Backgrounds
 
-Why this survey? For more information see previous publications:
+Why this survey?
+
+- International concern related to the development of weapons with AI has been growing. In the International Joint Conferences on Artificial Intelligence Organization (IJCAI) some 2,400 people and 160 companies from 90 countries signed an agreement not to develop weapons with AI. What about you?
+- I think it is appropriate to assess the possibility that the community can take a more active role in this regard.
+
+For more information see previous publications:
 
 - [A new software license at the height of these times](https://racherb.github.io/2019-07-05-the-first-step-to-a-safe-ai/)
 - [License To Save The World](https://racherb.github.io/2019-07-07-license-to-save-the-world/)
