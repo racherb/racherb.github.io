@@ -84,4 +84,10 @@ Just now, we are working to facilitate the implementation of SRU with other type
 
 Does this make sense to you? Let me know your point of view by leaving your comment or email me directly if you wish.
 
+## A survey
+
+To extend the primitive question posed in this article, I have prepared a survey to know the opinion of the community.
+
+The next entry refers to that survey: [A Big Question That Concerns Us](https://racherb.github.io/2019-09-02-ai-survey-a-big-question/)
+
 > This project is part of the **Iamio** initiative for interoperability and advanced entity relationships for the development of secure AI.
