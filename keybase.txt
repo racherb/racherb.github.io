@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/rhernandez
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://racherb.github.io
+  * I am rhernandez (https://keybase.io/rhernandez) on keybase.
+  * I have a public key ASDpN5GH-qaZTnZ0mfGS6B54gtZALAzwJZwxFO_Jamb1oQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e9379187faa6994e767499f192e81e7882d6402c0cf0259c3114efc96a66f5a10a",
+      "host": "keybase.io",
+      "kid": "0120e9379187faa6994e767499f192e81e7882d6402c0cf0259c3114efc96a66f5a10a",
+      "uid": "660e4e1327ba4cf7835beaba9da65b19",
+      "username": "rhernandez"
+    },
+    "merkle_root": {
+      "ctime": 1569493160,
+      "hash": "71b69099ce3eb62506f59f82ba5647a2784fed0687239efb5ff2027f67f6306082e4c677ce8ca109d71ed252d78b846e86565ed0bc956948aafcc1c7f154fa52",
+      "hash_meta": "bb6357d8b109056bd002c06ff546912b0b318b551bce8a5be88fa7123527e6cc",
+      "seqno": 7752688
+    },
+    "service": {
+      "entropy": "p8MV7vCRNvx4B0h0fCoDBa+t",
+      "hostname": "racherb.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.5.0"
+  },
+  "ctime": 1569493166,
+  "expire_in": 504576000,
+  "prev": "8b143907c87c70550edca386e12fa335e1f7126f99e28451ef9dae54dd440725",
+  "seqno": 28,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg6TeRh/qmmU52dJnxkugeeILWQCwM8CWcMRTvyWpm9aEKp3BheWxvYWTESpcCHMQgixQ5B8h8cFUO3KOG4S+jNeH3Em+Z4oRR752uVN1EByXEIHVmqIroIu93gM3XK9uTL7cZEeXkSLlSB3Rj6+/0V9RWAgHCo3NpZ8RAS8fMllNPZPPaDe8EFWmSKxNKIOINcW61VDM4UgJKDBaFZxRbcy+bVGfg6MKOuRtBWX0Raog6d1wTw4BhYQ4hBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDvknavTJfdNkfAXyvFfqmM4oEkqlfGAypIecp1f/GRco3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rhernandez
+
+==================================================================
