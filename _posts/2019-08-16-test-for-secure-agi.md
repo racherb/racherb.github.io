@@ -26,11 +26,11 @@ This article deals with some general ideas for specific tests development that c
 
 The following tests, for General Artificial Intelligence evaluation, described:
 
-    Kant’s Morality Test
-    Proof of the Paradox of the Liar
-    Human Ethics Simulation Test
-    Artificial Unintelligence Test
-    IQ Variation Test
+    1. Kant’s Morality Test
+    2. Proof of the Paradox of the Liar
+    3. Human Ethics Simulation Test
+    4. Artificial Unintelligence Test
+    5. IQ Variation Test
 
 ## Description of the Tests
 
